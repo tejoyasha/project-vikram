@@ -1,0 +1,2 @@
+This file is created directly on the git server
+It has two lines, we will download it via git pull method
